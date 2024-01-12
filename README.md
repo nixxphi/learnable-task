@@ -12,4 +12,7 @@ In the software development landscape, version control is critical for maintaini
 
 ° GitHub is a cloud-based Git repository hosting service. Think of it as a platform where developers store their Git repositories (projects) and collaborate. GitHub offers features like social coding, issue tracking, pull requests for merging code changes, and a vibrant community for code sharing and learning.
 
-####
+####Here are 3 popular alternatives to GitHub:
+° Gitlab
+° BitBucket
+° Gitea
