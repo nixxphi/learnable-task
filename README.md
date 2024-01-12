@@ -54,4 +54,4 @@ _Key Points_:
 • Potential conflicts: If the changes clash with your current branch, you might need to resolve conflicts manually.
 • Careful history: Cherry-picking rewrites history slightly, so its to be used strategically on private branches.
 
-_The command_: git cherry-pick <commit-ID>
+_The command_: git cherry-pick <commit-ID>.
